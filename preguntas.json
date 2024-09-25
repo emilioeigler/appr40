@@ -6,7 +6,8 @@
       "respuesta2": "Madrid",
       "respuesta3": "París",
       "respuesta4": "Roma",
-      "nivel": 1,
+      "correcta": 3,
+      "nivel": 4,
       "imagen": "https://example.com/imagenes/paris.jpg"
     },
     {
@@ -15,7 +16,8 @@
       "respuesta2": "Marte",
       "respuesta3": "Júpiter",
       "respuesta4": "Saturno",
-      "nivel": 2,
+      "correcta": 2,
+      "nivel": 4,
       "imagen": "https://example.com/imagenes/marte.jpg"
     },
     {
@@ -24,7 +26,8 @@
       "respuesta2": "Pablo Picasso",
       "respuesta3": "Leonardo da Vinci",
       "respuesta4": "Claude Monet",
-      "nivel": 3,
+      "correcta": 3,
+      "nivel": 4,
       "imagen": "https://example.com/imagenes/davinci.jpg"
     },
     {
@@ -33,6 +36,7 @@
       "respuesta2": "Nilo",
       "respuesta3": "Yangtsé",
       "respuesta4": "Misisipi",
+      "correcta": 2,
       "nivel": 4,
       "imagen": "https://example.com/imagenes/nilo.jpg"
     }
