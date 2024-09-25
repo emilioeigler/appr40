@@ -1,0 +1,40 @@
+{
+  "quiz": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuesta1": "Londres",
+      "respuesta2": "Madrid",
+      "respuesta3": "París",
+      "respuesta4": "Roma",
+      "nivel": 1,
+      "imagen": "https://example.com/imagenes/paris.jpg"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "respuesta1": "Venus",
+      "respuesta2": "Marte",
+      "respuesta3": "Júpiter",
+      "respuesta4": "Saturno",
+      "nivel": 2,
+      "imagen": "https://example.com/imagenes/marte.jpg"
+    },
+    {
+      "pregunta": "¿Quién pintó La Última Cena?",
+      "respuesta1": "Vincent Van Gogh",
+      "respuesta2": "Pablo Picasso",
+      "respuesta3": "Leonardo da Vinci",
+      "respuesta4": "Claude Monet",
+      "nivel": 3,
+      "imagen": "https://example.com/imagenes/davinci.jpg"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "respuesta1": "Amazonas",
+      "respuesta2": "Nilo",
+      "respuesta3": "Yangtsé",
+      "respuesta4": "Misisipi",
+      "nivel": 4,
+      "imagen": "https://example.com/imagenes/nilo.jpg"
+    }
+  ]
+}
