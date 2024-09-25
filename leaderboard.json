@@ -15,6 +15,10 @@
         {
             "nombre": "NuevoJugador",
             "score": 300
+        },
+        {
+            "nombre": "NuevoJugador",
+            "score": 300
         }
     ]
 }
