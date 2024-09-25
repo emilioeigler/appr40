@@ -19,6 +19,10 @@
         {
             "nombre": "NuevoJugador",
             "score": 300
+        },
+        {
+            "nombre": "cachorro​",
+            "score": 0
         }
     ]
 }
